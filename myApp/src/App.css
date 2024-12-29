@@ -1,0 +1,24 @@
+.navBar {
+  display: flex;
+  width: 100vw;
+  height: 10vh;
+  justify-content: space-around;
+  align-items: center;
+  /* margin: 20px; */
+}
+
+
+.post-section{
+ display: flex;
+ justify-content: space-around;
+}
+
+.post-buttons{
+  display: flex;
+  gap: 50px;
+}
+
+.user-comment{
+  display: flex; 
+  gap: 50px;
+}
